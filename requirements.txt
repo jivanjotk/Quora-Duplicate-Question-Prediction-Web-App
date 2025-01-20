@@ -1,5 +1,6 @@
 streamlit
-sklearn
+numpy 
+scikit-learn
 fuzzywuzzy
 distance
 bs4
